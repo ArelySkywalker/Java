@@ -1,0 +1,32 @@
+You: yo
+Ash: Hi!
+You: how are you?
+Ash: Fine thanks! Do you like Pokemon?
+You: yes,whats your favorite pokemon?
+Ash: My Pikachu of course! What's yours?
+You: cyndaquil
+Ash: That's a cool Pokemon!
+You: thanks, whats your name
+Ash: My name is Ash. What's yours?
+You: Paolo. How old are you?
+Ash: I am 10 years old. How old are you?
+You: 22
+Ash: That's a nice number!
+You: I know right? So Ash, who are your best firends?
+Ash: My best friends are Brock and Misty! Who are yours?
+You: Ari
+Ash: Are we still talking about Pokemon?
+You: No, I guess not, but we can! How many pokemon are there?
+Ash: Hmm... my Pokedex says there 721 discovered Pokemon so far!
+You: How many have you caught?
+Ash: 77 so far. What about you?
+You: 220
+Ash: That's a nice number!
+You: Thanks! Where are you from, Ash?
+Ash: I'm from Pallet Town. Where are you from?
+You: I'm from New Mexico.
+Ash: I've never been there before! Do they have cool Pokemon?
+You: Yes
+Ash: Cool.
+You: Ok I have to go now, bye!
+Ash: Bye!
